@@ -1,0 +1,395 @@
+{
+  "trips": {
+    "Munich": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "600",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Oslo",
+        "price": "700",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "3",
+        "destination": "Rome",
+        "price": "500",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "4",
+        "destination": "London",
+        "price": "650",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "5",
+        "destination": "Madrid",
+        "price": "750",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "550",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "Paris": [
+      {
+        "id": "1",
+        "destination": "Munich",
+        "price": "600",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "2",
+        "destination": "Oslo",
+        "price": "700",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "3",
+        "destination": "Rome",
+        "price": "500",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "4",
+        "destination": "London",
+        "price": "300",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "5",
+        "destination": "Madrid",
+        "price": "400",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "200",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "Oslo": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "600",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Munich",
+        "price": "700",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "3",
+        "destination": "Rome",
+        "price": "800",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "4",
+        "destination": "London",
+        "price": "900",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "5",
+        "destination": "Madrid",
+        "price": "950",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "750",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "Rome": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "600",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Munich",
+        "price": "500",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "3",
+        "destination": "Oslo",
+        "price": "800",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "4",
+        "destination": "London",
+        "price": "700",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "5",
+        "destination": "Madrid",
+        "price": "800",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "650",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "London": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "300",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Munich",
+        "price": "650",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "3",
+        "destination": "Oslo",
+        "price": "900",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "4",
+        "destination": "Rome",
+        "price": "700",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "5",
+        "destination": "Madrid",
+        "price": "500",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "400",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "Madrid": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "400",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Munich",
+        "price": "750",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "3",
+        "destination": "Oslo",
+        "price": "950",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "4",
+        "destination": "Rome",
+        "price": "800",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "5",
+        "destination": "London",
+        "price": "500",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "6",
+        "destination": "Amsterdam",
+        "price": "450",
+        "accommodation": "70",
+        "lat": "52.37738044685218",
+        "lng": "4.893724842156338"
+      }
+    ],
+    "Amsterdam": [
+      {
+        "id": "1",
+        "destination": "Paris",
+        "price": "200",
+        "accommodation": "80",
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      },
+      {
+        "id": "2",
+        "destination": "Munich",
+        "price": "550",
+        "accommodation": "100",
+        "lat": "48.14638839070641",
+        "lng": "11.577186524602949"
+      },
+      {
+        "id": "3",
+        "destination": "Oslo",
+        "price": "750",
+        "accommodation": "90",
+        "lat": "59.91373021523702",
+        "lng": "10.738105797873667"
+      },
+      {
+        "id": "4",
+        "destination": "Rome",
+        "price": "650",
+        "accommodation": "70",
+        "lat": "41.88949936605339",
+        "lng": "12.483901917669355"
+      },
+      {
+        "id": "5",
+        "destination": "London",
+        "price": "400",
+        "accommodation": "80",
+        "lat": "51.51258835149949",
+        "lng": "-0.1272006312995666"
+      },
+      {
+        "id": "6",
+        "destination": "Madrid",
+        "price": "450",
+        "accommodation": "60",
+        "lat": "40.43257510248097",
+        "lng": "-3.7061667336302615"
+      }
+    ]
+  },
+  "booked": [
+    {
+      "id": "21dd",
+      "departureCity": "Munich",
+      "destination": "Rome",
+      "departureDate": "2024-06-12T22:00:00.000Z",
+      "returnDate": "2024-06-12T22:00:00.000Z",
+      "price": "500",
+      "lat": "41.88949936605339",
+      "lng": "12.483901917669355",
+      "durationDays": 0,
+      "accommodationFee": 0,
+      "totalCost": 500
+    },
+    {
+      "id": "645e",
+      "departureCity": "London",
+      "destination": "Amsterdam",
+      "departureDate": "2024-06-21T22:00:00.000Z",
+      "returnDate": "2024-06-23T22:00:00.000Z",
+      "price": "400",
+      "lat": "52.37738044685218",
+      "lng": "4.893724842156338",
+      "durationDays": 2,
+      "accommodationFee": 140,
+      "totalCost": 540
+    },
+    {
+      "id": "efaa",
+      "departureCity": "Munich",
+      "destination": "Paris",
+      "departureDate": "2024-06-20T22:00:00.000Z",
+      "returnDate": "2024-06-23T22:00:00.000Z",
+      "price": "600",
+      "lat": "48.849580887963015",
+      "lng": "2.350044232527369",
+      "durationDays": 3,
+      "accommodationFee": 240,
+      "totalCost": 840
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "id": "c42c",
+      "cityName": "Magdeburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-06-21T06:46:35.554Z",
+      "notes": "Mega Stadt",
+      "position": {
+        "lat": "52.13024086426151",
+        "lng": "11.635948559044039"
+      }
+    },
+    {
+      "id": "d4f6",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-21T06:47:30.032Z",
+      "notes": "Lotta french people",
+      "position": {
+        "lat": "48.85271620020675",
+        "lng": "2.349726915634127"
+      }
+    },
+    {
+      "id": "7db2",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-21T06:48:32.810Z",
+      "notes": "SIUUUUUUU!",
+      "position": {
+        "lat": "40.39933323771322",
+        "lng": "-3.7134783382142627"
+      }
+    },
+    {
+      "id": "ab12",
+      "cityName": "Ottawa",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-06-21T06:50:14.752Z",
+      "notes": "",
+      "position": {
+        "lat": "45.40444922753292",
+        "lng": "-75.63698948616455"
+      }
+    },
+    {
+      "id": "f053",
+      "cityName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-21T06:51:29.701Z",
+      "notes": "",
+      "position": {
+        "lat": "38.859363280421235",
+        "lng": "-77.04116587774602"
+      }
+    },
+    {
+      "id": "1d1f",
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-06-21T10:56:19.244Z",
+      "notes": "hier wohne ich",
+      "position": {
+        "lat": "48.1306519448563",
+        "lng": "11.593322753906252"
+      }
+    },
+    {
+      "id": "c7e4",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-21T10:58:29.115Z",
+      "notes": "ihc wae 3 mal in paris",
+      "position": {
+        "lat": "48.849580887963015",
+        "lng": "2.350044232527369"
+      }
+    }
+  ]
+}

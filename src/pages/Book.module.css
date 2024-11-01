@@ -1,0 +1,51 @@
+:root {
+  --color-brand--11: #ffb545;
+  --color-brand--12: #834e00;
+  --color-brand--21: #00c46a;
+  --color-brand--22: #005e32;
+
+  --color-dark--0: #242a2e;
+  --color-dark--1: #2d3439;
+  --color-dark--2: #42484d;
+  --color-light--1: #aaa;
+  --color-light--2: #ececec;
+  --color-light--3: #d6dee0;
+}
+
+/* Button container to position buttons */
+.buttonContainer {
+  display: flex;
+  gap: 10px; /* Space between buttons */
+  margin-bottom: 20px; /* Space below buttons */
+}
+
+/* General button styles */
+.toggleButton {
+  padding: 10px 20px;
+  background-color: var(--color-brand--21);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.toggleButton:hover {
+  background-color: var(--color-brand--22);
+}
+
+.toggleButton:active {
+  background-color: var(--color-brand--21);
+}
+
+/* Active button styles */
+.activeButton {
+  background-color: var(--color-brand--22);
+}
+
+/* Position buttons on the left */
+.buttonContainer {
+  justify-content: flex-start;
+  margin-left: 1rem;
+}
